@@ -37,8 +37,6 @@ int main() {
 
     // Liberando a memória da árvore
     liberarArvore(arvore);
-    printf("\nApos liberar a arvore:\n");
-    imprimirArvore(arvore);
 
     return 0;
 }
